@@ -1,1 +1,2 @@
-dddfgdfhmgd
+readme - текстовой объект
+
